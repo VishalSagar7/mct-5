@@ -1,4 +1,4 @@
-# Project Name
+# Shopify
 
 A brief description of your project.
 
